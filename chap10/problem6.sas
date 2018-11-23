@@ -3,16 +3,22 @@ data Inventory;
   set "F:\D-codes\SAS\Learning\inventory.sas7bdat";
 run;
 
+proc sort data=Inventory out=Inventory;
+  by Model;
+run;
+
 data NewProducts;
   /* change to your file path*/
   set "F:\D-codes\SAS\Learning\newproducts.sas7bdat";
 run;
 
-data Combined;
-set Inventory NewProducts;
+proc sort data=NewProducts out=NewProducts;
+  by Model;
 run;
 
-proc sort data=Updated;
+
+data Updated;
+set Inventory NewProducts;
   by Model;
 run;
 
