@@ -1,0 +1,21 @@
+data storage;
+  length A $ 4 B $ 4;
+  Name = 'Goldstein';
+  AandB = A || B;
+  Cat = cats(A, B);
+  if Name = 'Smith' then Match = 'No';
+    else Match = 'Yes';
+  Substring = substr(Name, 5,2);
+  L_A = lengthc(A);
+  L_B = lengthc(B);
+  L_Name = lengthc(Name);
+  L_AandB = lengthc(AandB);
+  L_Cat = lengthc(Cat);
+  L_Match = lengthc(Cat);
+  L_Match = lengthc(Match);
+  L_Substring = lengthc(Substring);
+run;
+
+title 'Storage Dataset';
+proc print data=storage;
+run;
