@@ -11,8 +11,9 @@ I've finished:
 - [Chapter 10: Subsetting and Combining SAS Data Sets](https://github.com/xzywisdili/lsbe/tree/master/chap10) 
 - [Chapter 11: Working with Numeric Functions](https://github.com/xzywisdili/lsbe/tree/master/chap11)
 - [Chapter 12: Working with Character Functions](https://github.com/xzywisdili/lsbe/tree/master/chap12)
+- [Chapter 13: Working with Arrays](https://github.com/xzywisdili/lsbe/tree/master/chap13)
 
-comming soon: chapter 13: Working with Arrays
+comming soon: chapter 14: Displaying Your Data
 
 SAS version: 9.4
 
@@ -28,7 +29,8 @@ SAS version: 9.4
 - [章節 10：取集合合併 SAS 數據集](https://github.com/xzywisdili/lsbe/tree/master/chap10) 
 - [章節 11：數字函數](https://github.com/xzywisdili/lsbe/tree/master/chap11)
 - [章節 12：字符串函數](https://github.com/xzywisdili/lsbe/tree/master/chap12)
+- [章節 13：操縱數組](https://github.com/xzywisdili/lsbe/tree/master/chap13)
 
-即將完成：章節 13：操縱數組
+即將完成：章節 14：展示數據
 
 SAS 軟件版本：9.4
