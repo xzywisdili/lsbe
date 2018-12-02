@@ -12,8 +12,9 @@ I've finished:
 - [Chapter 11: Working with Numeric Functions](https://github.com/xzywisdili/lsbe/tree/master/chap11)
 - [Chapter 12: Working with Character Functions](https://github.com/xzywisdili/lsbe/tree/master/chap12)
 - [Chapter 13: Working with Arrays](https://github.com/xzywisdili/lsbe/tree/master/chap13)
+- [Chapter 14: Displaying Your Data](https://github.com/xzywisdili/lsbe/tree/master/chap14)
 
-comming soon: chapter 14: Displaying Your Data
+comming soon: chapter 15: Creating Customized Reports
 
 SAS version: 9.4
 
@@ -30,7 +31,8 @@ SAS version: 9.4
 - [章節 11：數字函數](https://github.com/xzywisdili/lsbe/tree/master/chap11)
 - [章節 12：字符串函數](https://github.com/xzywisdili/lsbe/tree/master/chap12)
 - [章節 13：操縱數組](https://github.com/xzywisdili/lsbe/tree/master/chap13)
+- [章節 14: 展示數據](https://github.com/xzywisdili/lsbe/tree/master/chap14)
 
-即將完成：章節 14：展示數據
+即將完成：章節 15：創建自定義報告
 
 SAS 軟件版本：9.4
