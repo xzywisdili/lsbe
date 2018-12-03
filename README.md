@@ -14,8 +14,9 @@ I've finished:
 - [Chapter 13: Working with Arrays](https://github.com/xzywisdili/lsbe/tree/master/chap13)
 - [Chapter 14: Displaying Your Data](https://github.com/xzywisdili/lsbe/tree/master/chap14)
 - [Chapter 15: Creating Customized Reports](https://github.com/xzywisdili/lsbe/tree/master/chap15)
+- [Chapter 16: Summarizing Your Data](https://github.com/xzywisdili/lsbe/tree/master/chap16)
 
-comming soon: chapter 16: Summarizing Your Data
+comming soon: chapter 17: Counting Frequencies
 
 SAS version: 9.4
 
@@ -34,7 +35,8 @@ SAS version: 9.4
 - [章節 13：操縱數組](https://github.com/xzywisdili/lsbe/tree/master/chap13)
 - [章節 14：展示數據](https://github.com/xzywisdili/lsbe/tree/master/chap14)
 - [章節 15：創建自定義報告](https://github.com/xzywisdili/lsbe/tree/master/chap15)
+- [章節 16：總結數據](https://github.com/xzywisdili/lsbe/tree/master/chap16)
 
-即將完成：章節 16：總結數據
+即將完成：章節 17：頻率統計
 
 SAS 軟件版本：9.4
