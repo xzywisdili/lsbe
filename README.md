@@ -31,7 +31,7 @@ SAS version: 9.4
 這本書是 SAS 入門者的不二之選。本人也正在學習 SAS。此書每章之後有 10 到 20 道不等的課後題目。
 
 我已完成：
-- [章節 10：取集合合併 SAS 數據集](https://github.com/xzywisdili/lsbe/tree/master/chap10) 
+- [章節 10：取集和合併 SAS 數據集](https://github.com/xzywisdili/lsbe/tree/master/chap10) 
 - [章節 11：數字函數](https://github.com/xzywisdili/lsbe/tree/master/chap11)
 - [章節 12：字符串函數](https://github.com/xzywisdili/lsbe/tree/master/chap12)
 - [章節 13：操縱數組](https://github.com/xzywisdili/lsbe/tree/master/chap13)
