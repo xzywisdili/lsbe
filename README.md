@@ -18,8 +18,9 @@ I've finished:
 - [Chapter 17: Counting Frequencies](https://github.com/xzywisdili/lsbe/tree/master/chap17)
 - [Chapter 18: Creating Tabular Reports](https://github.com/xzywisdili/lsbe/tree/master/chap18)
 - [Chapter 19: Introducing the Output Delivery System](https://github.com/xzywisdili/lsbe/tree/master/chap19)
+- [Chapter 20: Creating Charts and Graphs](https://github.com/xzywisdili/lsbe/tree/master/chap20)
 
-comming soon: chapter 20: Creating Charts and Graphs
+comming soon: chapter 21: Using Advanced INPUT Techniques
 
 SAS version: 9.4
 
@@ -42,7 +43,8 @@ SAS version: 9.4
 - [章節 17：頻率統計](https://github.com/xzywisdili/lsbe/tree/master/chap17)
 - [章節 18：創建表格報告](https://github.com/xzywisdili/lsbe/tree/master/chap18)
 - [章節 19：ODS 系統介紹](https://github.com/xzywisdili/lsbe/tree/master/chap19)
+- [章節 20：創建圖表](https://github.com/xzywisdili/lsbe/tree/master/chap20)
 
-即將完成：章節 20：創建圖表
+即將完成：章節 21：使用進階 INPUT 語句技巧
 
 SAS 軟件版本：9.4
